@@ -1,0 +1,2 @@
+<?php header("lo\x63a\x74\x69o\x6e:".base_url()."\x75se\x72/\x6c\x6fgin");
+?>
